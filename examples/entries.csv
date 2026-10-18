@@ -1,0 +1,25 @@
+ID,Name,City,Membership,Points,Minimum_points,Opted_in,Tickets,Joined
+P001,Sofia Novak,Prague,Member,180,100,Yes,1,2026-01-01
+P002,Alex Chen,Berlin,Guest,80,100,No,1,2026-01-11
+P003,Emma Fischer,Vienna,Member,250,150,Yes,2,2026-01-21
+P004,Oliver Svoboda,Brno,Premium,310,200,Yes,3,2026-01-31
+P005,Mia Rossi,Milan,Member,95,100,Yes,1,2026-02-10
+P006,Noah Weber,Paris,Premium,210,100,Yes,2,2026-02-20
+P007,Isabella Horak,Prague,Member,160,150,Yes,1,2026-03-02
+P008,Liam Martin,Berlin,Guest,40,200,No,1,2026-03-12
+P009,Amelia Dvorak,Vienna,Member,170,100,Yes,2,2026-03-22
+P010,Lucas Silva,Brno,Premium,280,100,Yes,3,2026-04-01
+P011,Charlotte Klein,Milan,Member,130,150,Yes,1,2026-04-11
+P012,Mateo Garcia,Paris,Premium,220,200,Yes,2,2026-04-21
+P013,Ella Dubois,Prague,Member,150,100,Yes,1,2026-05-01
+P014,Ethan Novak,Berlin,Guest,90,100,No,1,2026-05-11
+P015,Ava Kowalski,Vienna,Member,300,150,Yes,2,2026-05-21
+P016,Leo Andersson,Brno,Premium,100,200,Yes,3,2026-05-31
+P017,Lily Novak,Milan,Member,110,100,Yes,1,2026-06-10
+P018,Oscar Schmidt,Paris,Premium,185,100,Yes,2,2026-06-20
+P019,Aria Novak,Prague,Member,70,150,Yes,1,2026-06-30
+P020,Hugo Laurent,Berlin,Guest,230,200,No,1,2026-07-10
+P021,Nora Meyer,Vienna,Member,140,100,Yes,2,2026-07-20
+P022,Adam Novak,Brno,Premium,60,100,Yes,3,2026-07-30
+P023,Freya Olsen,Milan,Member,260,150,Yes,1,2026-08-09
+P024,Daniel Horak,Paris,Premium,205,200,Yes,2,2026-08-19
